@@ -1,5 +1,4 @@
 name: SpaceMining-Train-Upload
-# 触发条件：推送代码自动运行，支持手动触发
 on:
   push:
     branches: [ master ]
